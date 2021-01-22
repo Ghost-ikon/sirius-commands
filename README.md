@@ -22,8 +22,8 @@
 - [x] `send <message>` - Send a message to the party chat. :link:  
 - [x] `hide` - Hide all party members. :link: :crown:  
 - [x] `unhide` - Unhide all party members. :link: :crown:  
-- [ ] `sitout` - Sitout. :link:  
-- [ ] `sitin` - Sitin. :link:  
+- [x] `sitout` - Sitout. :link:  
+- [x] `sitin` - Sitin. :link:  
 - [ ] `ready` - Make your bot ready up. **NOTE: The bot __cannot__ go in a game.** :link:  
 - [ ] `unready` - Make your bot unready. :link:  
 - [ ] `leave` - Leave the party. :link:
