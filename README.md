@@ -19,7 +19,7 @@
 
 - [x] `promote <username>` - Promote someone in the bot's party. :link: :crown:  
 - [x] `kick <username>` - Kick someone from the bot's party. :link: :crown:  
-- [ ] `send <message>` - Send a message to the party chat. :link:  
+- [x] `send <message>` - Send a message to the party chat. :link:  
 - [ ] `hide` - Hide all party members. :link: :crown:  
 - [ ] `unhide` - Unhide all party members. :link: :crown:  
 - [ ] `sitout` - Sitout. :link:  
