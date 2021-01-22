@@ -3,8 +3,8 @@
 
 ## Commands
 
-#### :crown: - Bot must be party leader  
-#### :link: - YOu must have a bot running in order to use this command.
+#### :crown: - Bot must be party leader
+#### :link: - You must have a bot running in order to use this command.
 
 ### Cosmetic Commands
 
