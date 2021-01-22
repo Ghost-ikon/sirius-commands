@@ -3,8 +3,8 @@
 
 ## Commands
 
-#### :crown: - Bot must be party leader
 #### :link: - You must have a bot running in order to use this command.
+#### :crown: - Bot must be party leader
 
 ### Cosmetic Commands
 
@@ -26,6 +26,6 @@
 ### General Commands
 
 `-start` - Start a bot.  
-`-stop` - Stop your bot.
+`-stop` - Stop your bot. link:
 
 #### More commands coming soon!
