@@ -1,6 +1,9 @@
 # Sirius Commands
 ### A Fortnite Lobby Bot Network
 
+## Getting Started
+Just send `-start` to start a bot!
+
 ## Commands
 
 #### :link: - You must have a bot running in order to use this command.
