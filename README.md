@@ -6,7 +6,7 @@ Just send `-start` to start a bot!
 
 ## Commands
 
-#### :link: - You must have a bot running in order to use this command.
+#### :link: - You must have a bot running in order to use this command
 #### :crown: - Bot must be party leader
 
 ### Cosmetic Commands
