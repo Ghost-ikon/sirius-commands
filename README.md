@@ -21,6 +21,11 @@
 `send <message>` - Send a message to the party chat. :link:  
 `hide` - Hides all party members. :link: :crown:  
 `unhide` - Unhides all party members. :link: :crown:  
-`leave` - Leave the party. :link:  
+`leave` - Leave the party. :link:
+
+### General Commands
+
+`-start` - Start a bot.  
+`-stop` - Stop your bot.
 
 #### More commands coming soon!
