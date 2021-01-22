@@ -6,9 +6,6 @@
 #### :link: - You must have a bot running in order to use this command.
 #### :crown: - Bot must be party leader
 
-### - [x] - Done
-### - [ ] - Not done
-
 ### Cosmetic Commands
 
 - [x] `skin <name/id>` - Change your bot's outfit. :link:  
