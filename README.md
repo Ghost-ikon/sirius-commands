@@ -12,6 +12,7 @@
 `backpack <name/id/none>` - Change your bot's backpack. :link:  
 `pickaxe <name/id>` - Change your bot's pickaxe. :link:  
 `emote <name/id>` - Change your bot's emote. :link:  
+`emoji <name/id>` - Change your bot's emoji. :link:  
 `level <number>` - Change your bot's level. :link:  
 
 ### Party Commands
