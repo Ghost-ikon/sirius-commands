@@ -24,8 +24,8 @@
 - [x] `unhide` - Unhide all party members. :link: :crown:  
 - [x] `sitout` - Sitout. :link:  
 - [x] `sitin` - Sitin. :link:  
-- [ ] `ready` - Make your bot ready up. **NOTE: The bot __cannot__ go in a game.** :link:  
-- [ ] `unready` - Make your bot unready. :link:  
+- [x] `ready` - Make your bot ready up. **NOTE: The bot __cannot__ go in a game.** :link:  
+- [x] `unready` - Make your bot unready. :link:  
 - [ ] `leave` - Leave the party. :link:
 
 ### General Commands
