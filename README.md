@@ -35,4 +35,4 @@
 `-start` - Start a bot.  
 `-stop` - Stop your bot. link:
 
-#### More commands coming soon!
+#### More commands are on their way!
