@@ -10,10 +10,10 @@
 `emote <name/id>` - Change your bots emote.
 
 ### Party Commands
-#### [x] Bot must be party leader
+#### :crown: Bot must be party leader
 
-`promote <username>` - [x] Promotes someone in the bot's party.  
-`kick <username>` - [x] Kicks someone from the bot's party.  
-`hide` - [x] Hides all party members.
+:crown: `promote <username>` - Promotes someone in the bot's party.  
+:crown: `kick <username>` - Kicks someone from the bot's party.  
+:crown: `hide` - Hides all party members.
 
 #### More commands coming soon!
