@@ -33,6 +33,6 @@
 ### General Commands
 
 `-start` - Start a bot.  
-`-stop` - Stop your bot. link:
+`-stop` - Stop your bot. :link:
 
 #### More commands are on their way!
