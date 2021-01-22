@@ -16,8 +16,8 @@
 
 ### Party Commands
 
-`promote <username>` - Promotes someone in the bot's party. :crown:  
-`kick <username>` - Kicks someone from the bot's party. :crown:  
-`hide` - Hides all party members. :crown:  
+`promote <username>` - Promotes someone in the bot's party. :link: :crown:  
+`kick <username>` - Kicks someone from the bot's party. :link: :crown:  
+`hide` - Hides all party members. :link: :crown:  
 
 #### More commands coming soon!
