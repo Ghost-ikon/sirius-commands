@@ -26,7 +26,7 @@
 - [x] `sitin` - Sitin. :link:  
 - [x] `ready` - Make your bot ready up. **NOTE: The bot __cannot__ go in a game.** :link:  
 - [x] `unready` - Make your bot unready. :link:  
-- [ ] `leave` - Leave the party. :link:
+- [x] `leave` - Leave the party. :link:
 
 ### General Commands
 
