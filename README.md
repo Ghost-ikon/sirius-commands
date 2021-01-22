@@ -16,11 +16,15 @@
 
 ### Party Commands
 
-`promote <username>` - Promotes someone in the bot's party. :link: :crown:  
-`kick <username>` - Kicks someone from the bot's party. :link: :crown:  
+`promote <username>` - Promote someone in the bot's party. :link: :crown:  
+`kick <username>` - Kick someone from the bot's party. :link: :crown:  
 `send <message>` - Send a message to the party chat. :link:  
-`hide` - Hides all party members. :link: :crown:  
-`unhide` - Unhides all party members. :link: :crown:  
+`hide` - Hide all party members. :link: :crown:  
+`unhide` - Unhide all party members. :link: :crown:  
+`sitout` - Sitout. :link:  
+`sitin` - Sitin. :link:  
+`ready` - Make your bot ready up (**NOTE: The bot __cannot__ go in a game.**). :link:  
+`unready` - Make your bot unready. :link:  
 `leave` - Leave the party. :link:
 
 ### General Commands
