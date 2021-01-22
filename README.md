@@ -18,6 +18,9 @@
 
 `promote <username>` - Promotes someone in the bot's party. :link: :crown:  
 `kick <username>` - Kicks someone from the bot's party. :link: :crown:  
+`send <message>` - Send a message to the party chat. :link:  
 `hide` - Hides all party members. :link: :crown:  
+`unhide` - Unhides all party members. :link: :crown:  
+`leave` - Leave the party. :link:  
 
 #### More commands coming soon!
