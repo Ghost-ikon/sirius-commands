@@ -20,8 +20,8 @@
 - [x] `promote <username>` - Promote someone in the bot's party. :link: :crown:  
 - [x] `kick <username>` - Kick someone from the bot's party. :link: :crown:  
 - [x] `send <message>` - Send a message to the party chat. :link:  
-- [ ] `hide` - Hide all party members. :link: :crown:  
-- [ ] `unhide` - Unhide all party members. :link: :crown:  
+- [x] `hide` - Hide all party members. :link: :crown:  
+- [x] `unhide` - Unhide all party members. :link: :crown:  
 - [ ] `sitout` - Sitout. :link:  
 - [ ] `sitin` - Sitin. :link:  
 - [ ] `ready` - Make your bot ready up. **NOTE: The bot __cannot__ go in a game.** :link:  
