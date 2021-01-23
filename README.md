@@ -42,7 +42,7 @@ Just send `-start` to start a bot!
 `-cosmetic <query>` - View information about a cosmetic.
 
 ### Aliases
-You can use aliases instead of the actual command to speed it up.
+You can also use these to execute the commands.
 
 `cosmetic` - `c` | `item`  
 `backpack` - `bp`  
