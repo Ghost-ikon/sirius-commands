@@ -41,4 +41,17 @@ Just send `-start` to start a bot!
 `-stop` - Stop your bot. :link:  
 `-cosmetic <query>` - View information about a cosmetic.
 
-#### More commands are on their way!
+### Aliases
+You can use aliases instead of the actual command to speed it up.
+
+`cosmetic` - `c` | `item`  
+`backpack` - `bp`  
+`kick` - `removepartymember`  
+`level` - `l`  
+`match` - `game`  
+`pickaxe` - `axe`  
+`promote` - `setpartyleader` | `promotepartymember`  
+`send` - `say`  
+`skin` - `outfit`  
+`start` - `startbot`  
+`variants` - `v`
