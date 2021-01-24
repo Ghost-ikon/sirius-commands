@@ -18,6 +18,7 @@ Just send `-start` to start a bot!
 `emote <name/id>` - Set your bot's emote. :link:  
 `emoji <name/id>` - Set your bot's emoji. :link:  
 `level <number>` - Set your bot's level. :link:  
+`gift <user>` - Gift all items to someone. 😳 :link:
 
 ### Party Commands
 
