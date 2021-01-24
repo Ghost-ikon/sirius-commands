@@ -59,4 +59,5 @@ You can also use these to execute the commands.
 `send` - `say`  
 `skin` - `outfit`  
 `start` - `startbot`  
-`variants` - `v`
+`variants` - `v`  
+`friend` - `f`
