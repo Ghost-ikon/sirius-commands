@@ -37,7 +37,8 @@ Just send `-start` to start a bot!
 
 ### Client Commands
 `friend add <username>` - Send a friend request to someone. :link:  
-`friend remove <username>` - Remove someone from your bot's friend list. :link:
+`friend remove <username>` - Remove someone from your bot's friend list. :link:  
+`restart` - Restart your bot. :link:
 
 ### General Commands
 
