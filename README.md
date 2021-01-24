@@ -35,6 +35,10 @@ Just send `-start` to start a bot!
 `match` - Make your bot look like it is in a match. :link:  
 `lobby` - Make your bot look like it is in the lobby. :link:  
 
+### Client Commands
+`friend add <username>` - Send a friend request to someone. :link:  
+`friend remove <username>` - Remove someone from your bot's friend list. :link:
+
 ### General Commands
 
 `-start` - Start a bot.  
