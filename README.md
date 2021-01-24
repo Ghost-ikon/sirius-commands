@@ -47,7 +47,6 @@ Just send `-start` to start a bot!
 ### General Commands
 
 `-start` - Start a bot.  
-`-report <bug>` - Report a bug found, can only be used in the [official server](https://discord.gg/XAaeXAd)  
 `-stop` - Stop your bot. :link:  
 `-cosmetic <query>` - View information about a cosmetic.
 
