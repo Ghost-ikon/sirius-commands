@@ -18,7 +18,8 @@ Just send `-start` to start a bot!
 `emote <name/id>` - Set your bot's emote. :link:  
 `emoji <name/id>` - Set your bot's emoji. :link:  
 `level <number>` - Set your bot's level. :link:  
-`gift <user>` - Gift all items to someone. 😳 :link:
+`gift <user>` - Gift all items to someone. 😳 :link:  
+`copy <user>` - Copy a user's loadout. :link:
 
 ### Party Commands
 
@@ -66,4 +67,5 @@ You can also use these to execute the commands.
 `start` - `startbot`  
 `variants` - `v`  
 `friend` - `f`  
-`code` - `matchmakingkey` | `matchmakingcode`
+`code` - `matchmakingkey` | `matchmakingcode`  
+`copy` - `clone` | `copyplayer` | `cloneplayer` | `clonepartymember` | `copypartymember`
