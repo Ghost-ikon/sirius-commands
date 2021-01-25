@@ -47,7 +47,7 @@ Just send `-start` to start a bot!
 ### General Commands
 
 `-start` - Start a bot.  
-`-stop` - Stop your bot. :link:  
+`-kill` - Stop your bot. :link:  
 `-cosmetic <query>` - View information about a cosmetic.
 
 ### Aliases
