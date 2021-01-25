@@ -25,6 +25,7 @@ Just send `-start` to start a bot!
 `promote <username>` - Promote someone in the bot's party. :link: :crown:  
 `kick <username>` - Kick someone from the bot's party. :link: :crown:  
 `send <message>` - Send a message to the party chat. :link:  
+`code <code>` - Set your bot's party matchmaking code. :link:  
 `hide` - Hide all party members. :link: :crown:  
 `unhide` - Unhide all party members. :link: :crown:  
 `sitout` - Make your bot look like it is in the sitting out state. :link:  
@@ -33,7 +34,7 @@ Just send `-start` to start a bot!
 `unready` - Make your bot unready. :link:  
 `leave` - Leave the party. :link:  
 `match` - Make your bot look like it is in a match. :link:  
-`lobby` - Make your bot look like it is in the lobby. :link:  
+`lobby` - Make your bot look like it is in the lobby. :link:
 
 ### Friends
 `friend add <username>` - Send a friend request to someone. :link:  
@@ -64,4 +65,5 @@ You can also use these to execute the commands.
 `skin` - `outfit`  
 `start` - `startbot`  
 `variants` - `v`  
-`friend` - `f`
+`friend` - `f`  
+`code` - `matchmakingkey` | `matchmakingcode`
