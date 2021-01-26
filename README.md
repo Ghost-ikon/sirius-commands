@@ -11,7 +11,7 @@ Just send `-start` to start a bot!
 
 ### Cosmetic Commands
 
-`variants <name/id> | <variant name>` Set's the variants for your bot. :link:  
+`variants <name/id> | <variant name>` Set your bot's variants. :link:  
 `skin <name/id>` - Set your bot's outfit. :link:  
 `backpack <name/id/none>` - Set your bot's backpack. :link:  
 `pickaxe <name/id>` - Set your bot's pickaxe. :link:  
